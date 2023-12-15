@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "himanshu",
+      "email": "h@gmail.com",
+      "phone": "8908907890",
+      "address": "delhi",
+      "id": 16
+    },
+    {
+      "name": "Himanshu Mehta",
+      "email": "hmehtaengg@gmail.com",
+      "phone": "08920434325",
+      "address": "London",
+      "id": 17
+    },
+    {
+      "name": "Nsruto",
+      "email": "naruto@gmail.com",
+      "phone": "8989898989",
+      "address": "ghghgghhg aga",
+      "id": 18
+    }
+  ]
+}
